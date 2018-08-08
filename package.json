@@ -1,0 +1,23 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Simples apuntes de nodejs ## Descripcion del idioma Apuntes de nodejs Basico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrInternauta/node-apuntes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrInternauta/node-apuntes/issues"
+  },
+  "homepage": "https://github.com/MrInternauta/node-apuntes#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^12.0.1"
+  }
+}
